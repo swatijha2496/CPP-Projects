@@ -1,0 +1,3 @@
+#instructions to create a pull request
+
+Copy the code execute it and then add features in the game .
